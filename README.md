@@ -25,7 +25,7 @@ Salve, sono **Ottavia**.
 
 Sviluppatrice web in riconversione professionale verso il settore tech, con un background pluriennale in gestione dati, CRM e supporto operativo. Costruisco applicazioni reali appoggiandomi a un workflow di sviluppo AI-assistito che mi permette di affrontare stack tecnicamente articolati partendo da una formazione autodidatta.
 
-Mi piacciono i sistemi che si possono smontare e rimontare per capirli. Lo applico al codice tanto quanto ai giochi di ruolo da tavolo (che maestro nei weekend).
+Mi piacciono i sistemi che si possono smontare e rimontare per capirli. Lo applico al codice tanto quanto ai giochi di ruolo da tavolo (che mastero nei weekend).
 
 ---
 
